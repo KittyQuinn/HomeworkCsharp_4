@@ -13,3 +13,18 @@
 /Users/kataryzova/Desktop/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.pdb
 /Users/kataryzova/Desktop/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
 /Users/kataryzova/Desktop/HOMEWORK4/Task29/obj/Debug/net6.0/ref/Task29.dll
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/bin/Debug/net6.0/Task29
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/bin/Debug/net6.0/Task29.dll
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.dll
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/Debug/net6.0/ref/Task29.dll

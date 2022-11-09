@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kataryzova/Desktop/HOMEWORK4/Task29/Task29.csproj": {}
+    "/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/Task29.csproj": {}
   },
   "projects": {
-    "/Users/kataryzova/Desktop/HOMEWORK4/Task29/Task29.csproj": {
+    "/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/Task29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kataryzova/Desktop/HOMEWORK4/Task29/Task29.csproj",
+        "projectUniqueName": "/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/Task29.csproj",
         "projectName": "Task29",
-        "projectPath": "/Users/kataryzova/Desktop/HOMEWORK4/Task29/Task29.csproj",
+        "projectPath": "/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/Task29.csproj",
         "packagesPath": "/Users/kataryzova/.nuget/packages/",
-        "outputPath": "/Users/kataryzova/Desktop/HOMEWORK4/Task29/obj/",
+        "outputPath": "/Users/kataryzova/Desktop/IT homework/HOMEWORK4/Task29/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kataryzova/.nuget/NuGet/NuGet.Config"

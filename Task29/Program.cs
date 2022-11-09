@@ -4,7 +4,14 @@
 // 6, 1, 33 -> [6, 1, 33]
 
 Console.Clear();
-Console.WriteLine("Type numbers ");
-string N = Console.ReadLine();
 
-Console.WriteLine($"[{N}]");
+int size = 8;
+int[]array = new int [8];
+Random arr = new Random();
+
+for (int i = 0; i<size; i++)
+{
+    array[i] = new Random().Next(0,20);
+    Console.Write(array[i]);
+}
+Console.WriteLine();
